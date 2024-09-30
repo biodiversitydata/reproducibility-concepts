@@ -125,5 +125,19 @@ According to Wilson _et al._ (2017)[^wilson], good practices for a better reprod
 
 ## Tools
 
-Coming soon...
+<br>
+
+![](images/softwares.png)
+
+
+---
+
+<br>
+
+![](images/course-promo.png){width=80% fig-align='center'}
+
+<br>
+<br>
+
+Website available at: <https://rdatatoolbox.github.io/>
 
