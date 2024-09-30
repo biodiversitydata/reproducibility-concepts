@@ -19,16 +19,10 @@ engine: knitr
 ```
 
 
-<!-- Insert section 'Table of contents' -->
+<!-- Insert section 'Main content' -->
 
 ```{r}
-#| child: "sections/table-of-contents.qmd"
+#| child: "sections/main-content.qmd"
 ```
 
-
-<!-- Insert section 'Quarto basics' -->
-
-```{r}
-#| child: "sections/quarto-basics.qmd"
-```
 
