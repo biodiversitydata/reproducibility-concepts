@@ -11,11 +11,11 @@
 ::: {.column .information width="68%"}
 
 ::: {.title}
-Quarto template
+Reproducibility
 :::
 
 ::: {.subtitle}
-HTML presentation w/ RevealJS framework
+Definition, concepts & tools
 :::
 
 ::: {.date}
